@@ -8,6 +8,10 @@ Use AES-256 and Bcrypt to encrypt/decrypt folder and file.
 
 Use asyncio to get encrypt/decrypt faster.
 
+Platform
+=========================
+Windows 7, 8.1, 10, MacOs, Linux
+
 Use
 =========================
 
