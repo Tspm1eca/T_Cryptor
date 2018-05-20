@@ -33,4 +33,8 @@ Use `Cryptor -h` to get more informations.
 
 TODO
 =========================
-    - GUI
+- GUI
+
+License
+=========================
+MIT
