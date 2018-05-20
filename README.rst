@@ -6,6 +6,8 @@ Description
 =========================
 Use AES-256 and Bcrypt to encrypt/decrypt folder and file.
 
+Use asyncio to get encrypt/decrypt faster.
+
 Use
 =========================
 
