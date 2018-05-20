@@ -30,3 +30,7 @@ Not encrypt folder name:
     $ Cryptor e --no-fn /folder or file
     
 Use `Cryptor -h` to get more informations.
+
+TODO
+=========================
+GUI
