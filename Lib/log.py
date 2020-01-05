@@ -23,3 +23,6 @@ level = {"CRITICAL" : logging.CRITICAL,
 "INFO" : logging.INFO,
 "DEBUG" : logging.DEBUG,
 "NOTSET" : logging.NOTSET}
+
+# ??
+# logger = log.Logger().get_logger(level = log.level["WARNING"])
